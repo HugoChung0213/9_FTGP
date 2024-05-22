@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HugoChung0213/9_FTGP/static/css/main.45f78ac7.css",
+    "main.js": "/HugoChung0213/9_FTGP/static/js/main.9b2ab3a1.js",
+    "static/js/453.8ab44547.chunk.js": "/HugoChung0213/9_FTGP/static/js/453.8ab44547.chunk.js",
+    "index.html": "/HugoChung0213/9_FTGP/index.html",
+    "main.45f78ac7.css.map": "/HugoChung0213/9_FTGP/static/css/main.45f78ac7.css.map",
+    "main.9b2ab3a1.js.map": "/HugoChung0213/9_FTGP/static/js/main.9b2ab3a1.js.map",
+    "453.8ab44547.chunk.js.map": "/HugoChung0213/9_FTGP/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f78ac7.css",
+    "static/js/main.9b2ab3a1.js"
+  ]
+}
